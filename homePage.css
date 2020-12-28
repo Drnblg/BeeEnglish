@@ -229,6 +229,9 @@ body {
   text-align: center;
   height: 500px;
 }
+.medeelel a {
+  text-decoration: none;
+}
 .medeelel h1 {
   display: grid;
   bottom: 0;
